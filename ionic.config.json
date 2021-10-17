@@ -1,0 +1,8 @@
+{
+  "name": "space bar counter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5258ce8a"
+}
